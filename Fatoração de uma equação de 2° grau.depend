@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462568382 source:c:\users\marco aurélio\documents\codeblocks\fatoração de uma equação de 2° grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1465515358 source:c:\users\marco aurélio\documents\codeblocks\projetos\fatoração de uma equação de 2° grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
